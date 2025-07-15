@@ -1,4 +1,4 @@
-# Simple Face Detector (Python + OpenCV)
+# Simple Face Detector 
 
 Quick real-time face detection demo using OpenCV and Python.
 
