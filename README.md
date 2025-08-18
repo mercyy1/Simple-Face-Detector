@@ -1,6 +1,6 @@
 # Simple Face Detector 
 
-Quick real-time face detection demo using OpenCV and Python.
+Quick real-time face detection demo using OpenCV and Python :)
 
 ## Features
 - Captures video from your webcam
